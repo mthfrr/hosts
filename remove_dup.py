@@ -7,4 +7,5 @@ urls = [line.strip().split()[1].strip() for line in content.split("\n")]
 urls = sorted(list(set(urls)))
 
 with open(filename, "w") as f:
-    f.write("\n".join([f"172.0.0.1 {url}" for url in urls]))
+    # f.write("\n".join([f"172.0.0.1 {url}" for url in urls]))
+    f.write("\n".join([f"0.0.0.0 {url}" for url in urls]))
