@@ -30,7 +30,6 @@
 0.0.0.0 googlehosted.l.googleusercontent.com
 0.0.0.0 gtssl2-ocsp.geotrust.com
 0.0.0.0 heads-ec.spotify.com
-0.0.0.0 hello.com
 0.0.0.0 http://audio2.spotify.com
 0.0.0.0 idsync-ext.rlcdn.com
 0.0.0.0 js.moatads.com
