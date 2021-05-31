@@ -1,4 +1,4 @@
-# hosts
+# Spotify
 This was meant to block ads on the android Spotify app using Dns66.
 
 It never worked.
