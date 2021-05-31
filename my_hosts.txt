@@ -1,3 +1,5 @@
+# https://gist.github.com/teomaragakis/cb187d880c9a3ca2c8a2
+############## SPOTIFY - ADS - BEGIN
 127.0.0.1 media-match.com
 127.0.0.1 adclick.g.doublecklick.net
 127.0.0.1 www.googleadservices.com
@@ -48,7 +50,5 @@
 127.0.0.1 desktop.spotify.com
 127.0.0.1 heads-ec.spotify.com
 127.0.0.1 open.spotify.com
-127.0.0.1 www.spotify.facebook-ads.adtz.com
-127.0.0.1 www.spotify.pinterest.adtz.com
-127.0.0.1 play.google.com #<- without this didnt work spotify
-127.0.0.1 mad41s13-in-f5.1e100.net #<- without this didnt work spotify
+#127.0.0.1 spclient.wg.spotify.com
+############## SPOTIFY - ADS - END
