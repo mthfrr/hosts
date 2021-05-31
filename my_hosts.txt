@@ -30,6 +30,7 @@
 172.0.0.1 googlehosted.l.googleusercontent.com
 172.0.0.1 gtssl2-ocsp.geotrust.com
 172.0.0.1 heads-ec.spotify.com
+172.0.0.1 hello.com
 172.0.0.1 http://audio2.spotify.com
 172.0.0.1 idsync-ext.rlcdn.com
 172.0.0.1 js.moatads.com
